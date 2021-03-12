@@ -1,0 +1,17 @@
+{
+	"Name": "Spear Head",
+	"Alignment": ["Attack"],
+	"SynergyDirections": {
+		"Up": 0,
+		"Right": 0,
+		"Down": 2,
+		"Left": 1
+		}
+	"Bonus" : ["Elemental"],
+	"Abilities": ["SpearAttack_1", "PierceArmor"],
+	"Modifiers":{
+		"Attack": 10,
+		"Armor": 5,
+		"Pierce": 2
+		}
+}

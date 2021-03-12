@@ -1,0 +1,16 @@
+{
+	"Name": string,
+	"Alignment": [string, string],
+	"SynergyDirections": {
+		"Up": int,
+		"Right": int,
+		"Down": int,
+		"Left": int
+		}
+	"Bonus" : [string, string],
+	"Abilities": [string, string],
+	"Modifiers":{
+		"StatName": int,
+		"StatName": int
+		}
+}

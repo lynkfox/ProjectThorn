@@ -1,0 +1,9 @@
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\bin\Debug\netcoreapp3.1\Thorn.deps.json
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\bin\Debug\netcoreapp3.1\Thorn.dll
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\bin\Debug\netcoreapp3.1\Thorn.pdb
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\obj\Debug\netcoreapp3.1\Thorn.csprojAssemblyReference.cache
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\obj\Debug\netcoreapp3.1\Thorn.AssemblyInfoInputs.cache
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\obj\Debug\netcoreapp3.1\Thorn.AssemblyInfo.cs
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\obj\Debug\netcoreapp3.1\Thorn.csproj.CoreCompileInputs.cache
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\obj\Debug\netcoreapp3.1\Thorn.dll
+C:\Users\lynkf\source\repos\ProjectThorn\Thorn\obj\Debug\netcoreapp3.1\Thorn.pdb
